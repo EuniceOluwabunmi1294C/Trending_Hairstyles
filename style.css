@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    background-color: blue;
+    font-family: monospace;
+    justify-content: center; 
+    align-items: center;
+}
+.container{
+    padding: 20px;
+    box-shadow: 0 6px 10px rgba(0, 0, 0,.3);
+    border-radius: 15px;
+    width: 85%;
+}
+.h1{
+    align-items: center;
+    color: blueviolet;
+}
+.h2{
+    color: brown;
+}
+.img{
+    padding-left: 20px;
+    min-width: 2em;
+
+}
+.p{
+    color: blueviolet;
+    font-size: 20px;
+    align-items: center;
+}
